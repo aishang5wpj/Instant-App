@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">First Instant App</string>
+    <string name="asset_statements" translatable="false">[{ \"include\": \"https://aishang5wpj.github.io/.well-known/assetlinks.json\" }]</string>
+</resources>
